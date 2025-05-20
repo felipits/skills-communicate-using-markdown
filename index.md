@@ -3,3 +3,6 @@
 ### Este es H3
 #### Este es H4
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "¡Hola, mundo!";
+```
